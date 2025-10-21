@@ -1,0 +1,15 @@
+torch
+torchvision
+torchaudio
+timm
+albumentations
+transformers
+huggingface_hub
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+jupyter
+tqdm
+PyYAML
